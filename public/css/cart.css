@@ -1,0 +1,28 @@
+.wrap {
+  margin: 0 auto;
+  width: 960px;
+}
+
+.actions-fit {
+  list-style: none;
+  text-decoration: none;
+}
+.actions-fit li a {
+  text-decoration: none;
+}
+
+table {
+  width: 100%;
+}
+table th {
+  width: 100px;
+  white-space: nowrap;
+}
+table.data {
+  width: 600px;
+  border-spacing: 1px;
+  margin-top: 20px;
+}
+.actions-fit {
+  margin-top: 30px;
+}

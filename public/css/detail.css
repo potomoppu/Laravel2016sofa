@@ -1,0 +1,58 @@
+.itemname h1 {
+  text-align: center;
+}
+.item_img {
+  text-align: center;
+}
+.itemprice h2 {
+  text-align: center;
+  font-size: 30px;
+}
+.cart {
+  text-align: center;
+}
+.detail li {
+  margin-top: 10px;
+  list-style: none;
+  text-align: center;
+}
+/*
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+table tr {
+  border-bottom: 1px  #eee solid;
+}
+table th {
+  white-space: nowrap;
+  width: 100px;
+}
+*/
+
+
+table.data {
+  width: 600px;
+  border-spacing: 1px;
+  background: #999;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+}
+
+table.data th,
+table.data td {
+  padding: 5px;
+}
+
+table.data th {
+  width: 20%;
+  border: 1px solid #FFF;
+  background: #EEF1F4;
+}
+
+table.data td {
+  width: 80%;
+  background: #FFF;
+}
